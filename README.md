@@ -1,5 +1,7 @@
 HOUSING PRICE PREDICTION of Ames, Iowa Dataset
 
+![](/Images/external-content.duckduckgo.com.jpeg)
+
 <u>**Workflow**</u>:
 
 *  drop features with more missing values than actual values;
